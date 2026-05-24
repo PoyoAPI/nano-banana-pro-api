@@ -1,0 +1,13 @@
+{
+  "name": "poyo-nano-banana-pro-node-example",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs",
+    "check": "node --check index.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
