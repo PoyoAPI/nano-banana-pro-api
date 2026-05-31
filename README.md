@@ -1,5 +1,10 @@
 # Nano Banana Pro API Examples for PoYo
 
+[![Model page](https://img.shields.io/badge/Model%20page-nano--banana--pro-84cc16)](https://poyo.ai/models/nano-banana-2-api)
+[![API docs](https://img.shields.io/badge/API%20docs-docs.poyo.ai-22d3ee)](https://docs.poyo.ai/api-manual/image-series/nano-banana-2)
+[![License: MIT](https://img.shields.io/badge/License-MIT-111827)](LICENSE)
+[![Main examples](https://img.shields.io/badge/Main%20examples-PoyoAPI%2Fpoyo--examples-0f172a?logo=github)](https://github.com/PoyoAPI/poyo-examples)
+
 Focused server-side examples for building with `nano-banana-pro` and `nano-banana-pro-edit` on PoYo.
 
 [Model Page](https://poyo.ai/models/nano-banana-2-api) | [Docs](https://docs.poyo.ai/api-manual/image-series/nano-banana-2) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
