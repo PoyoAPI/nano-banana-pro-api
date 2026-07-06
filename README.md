@@ -9,7 +9,7 @@ Focused server-side examples for building with `nano-banana-pro` and `nano-banan
 
 The API workflow is: submit a task from your server, store `data.task_id`, poll in testing, and use `callback_url` webhooks in production.
 
-[Model Page](https://poyo.ai/models/nano-banana-2-api) | [Docs](https://docs.poyo.ai/api-manual/image-series/nano-banana-2) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
+[Try on PoYo](https://poyo.ai/models/nano-banana-2-api) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Docs](https://docs.poyo.ai/api-manual/image-series/nano-banana-2) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
 
 Nano Banana Pro is useful when image workflows need stronger reasoning, cleaner composition, higher-detail output, web-aware prompts, or multi-reference editing for production creative tools.
 
